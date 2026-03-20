@@ -1,7 +1,7 @@
 # BME450-project
 # Title
 
-“My super-cool project”
+“Classification of Sleep Stages from EEG Data”
 
 ## Team members
 
