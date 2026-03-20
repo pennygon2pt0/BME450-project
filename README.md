@@ -1,7 +1,7 @@
 # BME450-project
 # Title
 
-“Classification of Sleep Stages from EEG Data”
+Classification of Sleep Stages from EEG Data
 
 ## Team members
 
