@@ -5,7 +5,7 @@
 
 ## Team members
 
-Patricia Hung (pennygonn2pt0), Kelly Lin (Kellyhlin)
+Patricia Hung (pennygonn2pt0), Kelly Lin (kellyhlin)
 
 ## Project decription
 
