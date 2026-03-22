@@ -5,7 +5,7 @@ Classification of Sleep Stages from EEG Data
 
 ## Team members
 
-Patricia Hung (pennygonn2pt0), Kelly Lin (kellyhlin)
+Patricia Hung (pennygon2pt0), Kelly Lin (kellyhlin)
 
 ## Project decription
 
